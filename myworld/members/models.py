@@ -6,6 +6,5 @@ class Members(models.Model):
     lastname = models.CharField(max_length=255)
 
 
-from django.db import models
 
-# Create your models here.
+

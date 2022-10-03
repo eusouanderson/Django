@@ -4,19 +4,12 @@ from django.urls import reverse
 from .models import Members
 
 
+
 def index(request):
     mymembers = Members.objects.all().values()
     template = loader.get_template('index.html')
     context = {
-        'mymembers': mymembers,
-    }
-    return HttpResponse(template.render(context, request))
-
-
-def testing(request):
-    template = loader.get_template('template.html')
-    context = {
-        'firstname': 'Linus',
+        'mymembers': mymembers
     }
     return HttpResponse(template.render(context, request))
 
@@ -27,17 +20,19 @@ def add(request):
 
 
 def addrecord(request):
-    x = request.POST['first']
-    y = request.POST['last']
-    member = Members(firstname=x, lastname=y)
+    first = request.POST['first']
+    last = request.POST['last']
+    member = Members(firstname=first, lastname=last)
     member.save()
-    return HttpResponseRedirect(reverse('index'))
+
+
+    return HttpResponseRedirect(reverse('index.html'))
 
 
 def delete(request, id):
     member = Members.objects.get(id=id)
     member.delete()
-    return HttpResponseRedirect(reverse('index'))
+    return HttpResponseRedirect(reverse('index.html'))
 
 
 def update(request, id):
@@ -47,13 +42,3 @@ def update(request, id):
         'mymember': mymember,
     }
     return HttpResponse(template.render(context, request))
-
-
-def updaterecord(request, id):
-    first = request.POST['first']
-    last = request.POST['last']
-    member = Members.objects.get(id=id)
-    member.firstname = first
-    member.lastname = last
-    member.save()
-    return HttpResponseRedirect(reverse('index'))
