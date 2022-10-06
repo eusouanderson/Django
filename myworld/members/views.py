@@ -2,11 +2,35 @@ from django.http import HttpResponse, HttpResponseRedirect
 from django.template import loader
 from django.urls import reverse
 from .models import Members
+from django.contrib import admin
 
 
-def index3(request):
+def initialPag(request):
     template = loader.get_template('index3.html')
     return HttpResponse(template.render({}, request))
+
+
+def about(request):
+    about = loader.get_template('about.html')
+    return HttpResponse(about.render({}, request))
+
+
+def fruit(request):
+    fruit = loader.get_template('fruit.html')
+    return HttpResponse(fruit.render({}, request))
+
+
+def testimonial(request):
+    testimonial = loader.get_template('testimonial.html')
+    return HttpResponse(testimonial.render({}, request))
+
+def contact(request):
+    contact = loader.get_template('contact.html')
+    return HttpResponse(contact.render({}, request))
+
+def login(request):
+    login = loader.get_template('login.html')
+    return HttpResponse(login.render({}, request))
 
 
 def index(request):
@@ -27,10 +51,8 @@ def addrecord(request):
     first = request.POST['first']
     last = request.POST['last']
 
-
     member = Members(firstname=first, lastname=last)
     member.save()
-
 
     return HttpResponseRedirect(reverse('index.html'))
 
@@ -48,4 +70,3 @@ def update(request, id):
         'mymember': mymember,
     }
     return HttpResponse(template.render(context, request))
-
