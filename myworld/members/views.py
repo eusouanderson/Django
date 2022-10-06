@@ -4,6 +4,10 @@ from django.urls import reverse
 from .models import Members
 
 
+def index3(request):
+    template = loader.get_template('index3.html')
+    return HttpResponse(template.render({}, request))
+
 
 def index(request):
     mymembers = Members.objects.all().values()
@@ -22,6 +26,8 @@ def add(request):
 def addrecord(request):
     first = request.POST['first']
     last = request.POST['last']
+
+
     member = Members(firstname=first, lastname=last)
     member.save()
 
@@ -42,3 +48,4 @@ def update(request, id):
         'mymember': mymember,
     }
     return HttpResponse(template.render(context, request))
+
