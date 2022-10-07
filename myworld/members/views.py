@@ -2,7 +2,6 @@ from django.http import HttpResponse, HttpResponseRedirect
 from django.template import loader
 from django.urls import reverse
 from .models import Members
-from django.contrib import admin
 
 
 def initialPag(request):
@@ -34,12 +33,8 @@ def login(request):
 
 
 def index(request):
-    mymembers = Members.objects.all().values()
     template = loader.get_template('index.html')
-    context = {
-        'mymembers': mymembers
-    }
-    return HttpResponse(template.render(context, request))
+    return HttpResponse(template.render({}, request))
 
 
 def add(request):

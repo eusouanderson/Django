@@ -7,14 +7,8 @@ urlpatterns = [
   path('about.html', views.about, name='about.html'),
   path('fruit.html', views.fruit, name='fruit.html'),
   path('testimonial.html', views.testimonial, name='testimonial.html'),
-
-  path('contact.html/', views.contact, name='contact.html'),
-  path('contact.html/add/', views.add, name='contact.html'),
-  path('contact.html/add/addrecord/', views.addrecord, name='contact.html'),
-
-
+  path('contact.html', views.contact, name='contact.html'),
   path('login.html', views.login, name='login.html'),
-
 
   path('index.html/', views.index, name='index.html'),
   path('index.html/add/', views.add, name='add'),
