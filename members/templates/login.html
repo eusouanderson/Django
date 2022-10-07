@@ -36,9 +36,6 @@
       <div class="container">
         <div class="custom_nav2">
           <nav class="navbar navbar-expand custom_nav-container ">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <div class="d-flex  flex-column flex-lg-row align-items-center">
@@ -73,11 +70,12 @@
     </section>
 
     <table assign="center">
-      <input type="text" placeholder="Full Name" name="text" value="{{ mymember.firstname }}" />
-      <input type="email" placeholder="Email" name="email" value="{{ mymember.lastname }}" />
-      <input type="password" placeholder="Password" name="password" value="{{ mymember.age }}"/>
+      {% csrf_token %}
+      <input type="text" placeholder="Full Name" name="text" value="{{ members.firstlogin }}" />
+      <input type="email" placeholder="Email" name="email" value="{{ members.userlogin }}" />
+      <input type="password" placeholder="Password" name="password" value="{{ members.password }}"/>
     </table>
-<button type="submit" value="Submit">
+<button type="submit" href="login.html\add">
           Send
         </button>
 </body>

@@ -3,7 +3,6 @@ from django.template import loader
 from django.urls import reverse
 from .models import Members
 
-
 def initialPag(request):
     template = loader.get_template('index3.html')
     return HttpResponse(template.render({}, request))
@@ -30,6 +29,18 @@ def contact(request):
 def login(request):
     login = loader.get_template('login.html')
     return HttpResponse(login.render({}, request))
+
+
+def loginad(request):
+
+    firstname = request.POST['first']
+    userlogin = request.post['userlogin']
+    password = request.POST['last']
+
+    member = Members(firstname='', lastname='')
+    member.save()
+
+    return HttpResponseRedirect(reverse('login.html'))
 
 
 def index(request):
