@@ -3,6 +3,7 @@ from django.template import loader
 from django.urls import reverse
 from .models import Members
 
+
 def initialPag(request):
     template = loader.get_template('index3.html')
     return HttpResponse(template.render({}, request))
@@ -22,9 +23,11 @@ def testimonial(request):
     testimonial = loader.get_template('testimonial.html')
     return HttpResponse(testimonial.render({}, request))
 
+
 def contact(request):
     contact = loader.get_template('contact.html')
     return HttpResponse(contact.render({}, request))
+
 
 def login(request):
     login = loader.get_template('login.html')
@@ -32,7 +35,6 @@ def login(request):
 
 
 def loginad(request):
-
     firstname = request.POST['first']
     userlogin = request.post['userlogin']
     password = request.POST['last']
