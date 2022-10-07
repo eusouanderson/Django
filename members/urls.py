@@ -11,7 +11,7 @@ urlpatterns = [
 
   path('login.html', views.login, name='login.html'),
   path('login.html/login/add', views.loginad, name='login.html'),
-
+  path('flashcopia.html', views.flashcopia, name='flashcopia.html'),
 
   path('index.html/', views.index, name='index.html'),
   path('index.html/add/', views.add, name='add'),

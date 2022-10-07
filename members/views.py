@@ -34,6 +34,11 @@ def login(request):
     return HttpResponse(login.render({}, request))
 
 
+def flashcopia(request):
+    flash = loader.get_template('flashcopia.html')
+    return HttpResponse(flash.render({}, request))
+
+
 def loginad(request):
     firstname = request.POST['first']
     userlogin = request.post['userlogin']
