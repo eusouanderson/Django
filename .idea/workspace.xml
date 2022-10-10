@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="Free HTML TEMPLATES in DJANGO">
-      <change beforePath="$PROJECT_DIR$/.idea/Django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/myworld/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/myworld/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/fruit.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/fruit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/index3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +70,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665066976414</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Free HTML TEMPLATES in DJANGO">
-      <created>1665167185724</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1665167185724</updated>
     </task>
     <task id="LOCAL-00011" summary="Free HTML TEMPLATES in DJANGO">
       <created>1665167478030</created>
@@ -411,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665427938014</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665430081619</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1665430081619</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
