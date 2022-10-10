@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="Free HTML TEMPLATES in DJANGO">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/index3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +64,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665066976414</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Free HTML TEMPLATES in DJANGO">
-      <created>1665166917475</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1665166917475</updated>
     </task>
     <task id="LOCAL-00009" summary="Free HTML TEMPLATES in DJANGO">
       <created>1665167060325</created>
@@ -409,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665408270925</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665412576076</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1665412576076</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
