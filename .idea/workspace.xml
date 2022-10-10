@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="Free HTML TEMPLATES in DJANGO">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Inicial_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fruitsalads" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/fruit.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/fruit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/index3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/login.html" afterDir="false" />
@@ -62,6 +62,50 @@
       <recent name="C:\Users\Administrator\Desktop\Projetos\Django\fruitsalads\static" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Python 3.10" type="PythonConfigurationType" factoryName="Python">
+      <module name="Django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python310\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python" singleton="false">
+      <module name="Django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,13 +114,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665066976414</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Free HTML TEMPLATES in DJANGO">
-      <created>1665167478030</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1665167478030</updated>
     </task>
     <task id="LOCAL-00012" summary="Free HTML TEMPLATES in DJANGO">
       <created>1665168345211</created>
@@ -414,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665430081619</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665430316757</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1665430316757</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
