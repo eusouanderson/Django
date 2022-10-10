@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="Free HTML TEMPLATES in DJANGO">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/home/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/myworld/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/myworld/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="Free HTML TEMPLATES in DJANGO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -50,11 +47,11 @@
       <recent name="C:\Users\Administrator\Desktop\Projetos\Django\fruitsalads\static" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Projetos\Django\fruitsalads\templates" />
+      <recent name="C:\Users\Administrator\Desktop\Projetos\Django\fruitsalads" />
       <recent name="C:\Users\Administrator\Desktop\Projetos\Django\fruitsalads\home\templates" />
       <recent name="C:\Users\Administrator\Desktop\Projetos\Django\fruitsalads\static" />
       <recent name="C:\Users\Administrator\Desktop\Projetos\Django\myworld" />
-      <recent name="C:\Users\Administrator\Desktop\Projetos\Django\myworld\myworld" />
-      <recent name="C:\Users\Administrator\Desktop\Projetos\Django" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,13 +62,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665066976414</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Free HTML TEMPLATES in DJANGO">
-      <created>1665166329950</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1665166329950</updated>
     </task>
     <task id="LOCAL-00005" summary="Free HTML TEMPLATES in DJANGO">
       <created>1665166457428</created>
@@ -409,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665406757577</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665407313142</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1665407313142</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
