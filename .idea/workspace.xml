@@ -1,74 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="Free HTML TEMPLATES in DJANGO">
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/css/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/css/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/flash/css.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/flash/java.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/about-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/call.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/client-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/f-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/f-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/f-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/f-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/f-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/f-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/facebook-logo-button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/instagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/left-angle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/left-quote.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/link.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/linkedin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/location.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/mail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/menu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/right-angle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/right-quote.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/search-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/shop-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/slider-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/images/twitter-logo-button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/static/js/jquery-3.4.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/add.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/flashcopia.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/fruit.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/index3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/template.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/testimonial.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/templates/update.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/members/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myworld/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myworld/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myworld/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myworld/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myworld/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="Free HTML TEMPLATES in DJANGO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,15 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/Projetos/Django&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/Projetos/Django/fruitsalads/static",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\Projetos\Django\myworld" />
@@ -384,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665397137918</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665397874597</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1665397874597</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
