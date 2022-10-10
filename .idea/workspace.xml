@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="Free HTML TEMPLATES in DJANGO">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/home/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/home/templates/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/add.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/update.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -377,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665401150315</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665404380361</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1665404380361</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
