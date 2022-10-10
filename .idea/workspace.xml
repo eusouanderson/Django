@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="Free HTML TEMPLATES in DJANGO">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/home/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/home/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/index3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,15 +35,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Administrator/Desktop/Projetos/Django/fruitsalads/home",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/Projetos/Django/fruitsalads/home&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\Projetos\Django\fruitsalads\home" />
@@ -65,13 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665066976414</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Free HTML TEMPLATES in DJANGO">
-      <created>1665166824054</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1665166824054</updated>
     </task>
     <task id="LOCAL-00008" summary="Free HTML TEMPLATES in DJANGO">
       <created>1665166917475</created>
@@ -409,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665407688114</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665408270925</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1665408270925</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
