@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="Free HTML TEMPLATES in DJANGO">
-      <change beforePath="$PROJECT_DIR$/fruitsalads" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fruitsalads/myworld/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/myworld/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,13 +108,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665066976414</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Free HTML TEMPLATES in DJANGO">
-      <created>1665169888270</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1665169888270</updated>
     </task>
     <task id="LOCAL-00017" summary="Free HTML TEMPLATES in DJANGO">
       <created>1665170709774</created>
@@ -453,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665431662142</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665431785098</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1665431785098</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
