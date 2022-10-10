@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="Free HTML TEMPLATES in DJANGO" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FlW6Oaip6XsmTi92Q9V19LUeBo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Administrator/Desktop/Projetos/Django",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Projetos\Django\myworld" />
+      <recent name="C:\Users\Administrator\Desktop\Projetos\Django\myworld\myworld" />
+      <recent name="C:\Users\Administrator\Desktop\Projetos\Django" />
+      <recent name="C:\Users\Administrator\Desktop\Projetos\Django\myworld\members\static" />
+      <recent name="C:\Users\Administrator\Desktop\Projetos\Django\myworld\members" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="" />
+      <created>1665066976414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665066976414</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665078860019</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665078860019</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665091005735</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665091005735</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665149846961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665149846961</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665166329950</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665166329950</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665166457428</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665166457428</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665166636002</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665166636002</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665166824054</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665166824054</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665166917475</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665166917475</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665167060325</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665167060325</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665167185724</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665167185724</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665167478030</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665167478030</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665168345211</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1665168345211</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665168572327</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665168572327</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665169237758</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665169237758</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665169665058</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665169665058</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665169888270</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665169888270</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665170709774</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665170709774</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665171006105</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1665171006105</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665171333483</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1665171333483</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665171679848</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665171679848</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665172485163</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1665172485163</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665172709104</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1665172709104</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665172815526</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1665172815526</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665172884212</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1665172884212</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665173041842</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1665173041842</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665173139705</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1665173139705</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665173492785</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1665173492785</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665173558016</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1665173558016</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665262386048</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1665262386048</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665262836973</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1665262836973</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665262928340</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1665262928340</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665395764455</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1665395764455</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665395983132</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1665395983132</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665396374168</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1665396374168</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665396494032</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1665396494032</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665396954344</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1665396954344</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/mysite" />
+      <path value="$PROJECT_DIR$/mysite/Django" />
+      <path value="$PROJECT_DIR$/myworld" />
+      <path value="$PROJECT_DIR$/myproject" />
+    </ignored-roots>
+    <MESSAGE value="Free HTML TEMPLATES in DJANGO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Free HTML TEMPLATES in DJANGO" />
+  </component>
+</project>
