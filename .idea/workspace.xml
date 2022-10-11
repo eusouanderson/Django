@@ -3,14 +3,41 @@
   <component name="ChangeListManager">
     <list default="true" id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="Free HTML TEMPLATES in DJANGO">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/home/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/home/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/home/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/home/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/fruit.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/fruit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/index3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/templates/testimonial.html" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/members/templates/testimonial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/css/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/about-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/client-img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/f-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/f-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/f-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/f-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/f-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/f-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/facebook-logo-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/left-angle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/left-quote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/location.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/mail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/right-angle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/right-quote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/search-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/shop-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/slider-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/twitter-logo-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/js/jquery-3.4.1.min.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,15 +69,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Administrator/Desktop/Projetos/Django",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/Projetos/Django&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\Projetos\Django\fruitsalads\home" />
@@ -116,13 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665066976414</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Free HTML TEMPLATES in DJANGO">
-      <created>1665171333483</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1665171333483</updated>
     </task>
     <task id="LOCAL-00020" summary="Free HTML TEMPLATES in DJANGO">
       <created>1665171679848</created>
@@ -460,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665432020130</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665432493369</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1665432493369</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
