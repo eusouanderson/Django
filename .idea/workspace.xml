@@ -3,41 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="Free HTML TEMPLATES in DJANGO">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/css/responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/css/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/css/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/about-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/call.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/client-img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/f-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/f-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/f-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/f-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/f-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/f-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/facebook-logo-button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/instagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/left-angle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/left-quote.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/link.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/linkedin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/location.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/mail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/menu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/next.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/prev.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/right-angle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/right-quote.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/search-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/shop-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/slider-img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/images/twitter-logo-button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/js/custom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fruitsalads/members/static/js/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fruitsalads/myworld/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads/myworld/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,9 +50,9 @@
       <recent name="C:\Users\Administrator\Desktop\Projetos\Django\fruitsalads\static" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\Projetos\Django\fruitsalads" />
       <recent name="C:\Users\Administrator\Desktop\Projetos\Django\fruitsalads\members" />
       <recent name="C:\Users\Administrator\Desktop\Projetos\Django\fruitsalads\templates" />
-      <recent name="C:\Users\Administrator\Desktop\Projetos\Django\fruitsalads" />
       <recent name="C:\Users\Administrator\Desktop\Projetos\Django\fruitsalads\home\templates" />
       <recent name="C:\Users\Administrator\Desktop\Projetos\Django\fruitsalads\static" />
     </key>
@@ -143,20 +109,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665066976414</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Free HTML TEMPLATES in DJANGO">
-      <created>1665171679848</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1665171679848</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Free HTML TEMPLATES in DJANGO">
-      <created>1665172485163</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1665172485163</updated>
     </task>
     <task id="LOCAL-00022" summary="Free HTML TEMPLATES in DJANGO">
       <created>1665172709104</created>
@@ -487,7 +439,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665432493369</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665491311135</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1665491311135</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665491686910</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1665491686910</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
