@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="Free HTML TEMPLATES in DJANGO">
-      <change beforePath="$PROJECT_DIR$/fruitsalads" beforeDir="false" afterPath="$PROJECT_DIR$/fruitsalads" afterDir="false" />
-    </list>
+    <list default="true" id="64e35296-4a88-430f-977a-70c138f0a101" name="Changes" comment="Free HTML TEMPLATES in DJANGO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +18,12 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$/fruitsalads" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/fruitsalads" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -108,13 +108,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665066976414</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Free HTML TEMPLATES in DJANGO">
-      <created>1665173139705</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1665173139705</updated>
     </task>
     <task id="LOCAL-00027" summary="Free HTML TEMPLATES in DJANGO">
       <created>1665173492785</created>
@@ -452,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665499051217</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Free HTML TEMPLATES in DJANGO">
+      <created>1665745660988</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1665745660988</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -460,7 +460,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
